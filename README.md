@@ -19,6 +19,4 @@ Open index.html in your web browser.
 Use the buttons to input numbers and operators, and press '=' to calculate the result.
 
 Preview
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+![alt text](image.png)
